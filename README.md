@@ -1,4 +1,4 @@
-# #PlatziRetos: Desafío de Frontend Profesional y Ganadores de Programación en 3 Lenguajes
+# #PlatziRetos: Desafío de Frontend Profesional
 
 **Construye un clon de tu aplicación favorita** usando las herramientas que más te gustan. El reto consiste en mejorar, arreglar o incluir alguna funcionalidad que te encantaría encontrar en la aplicación de verdad.
 
